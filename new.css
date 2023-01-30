@@ -1,0 +1,428 @@
+body{
+    margin: 0px;
+    background: rgb(255,255,253);
+    background: linear-gradient(106deg, rgba(255,255,253,1) 0%, rgba(224,238,251,1) 25%);
+    height: 2334px;
+}
+.header{
+    width: 100%;
+    height: 135px;
+    
+    
+}
+
+.logo-image{
+    width: 43px;
+    float: left;
+    margin-left: 48px;
+    margin-top: 7px;
+}
+
+.opensea{
+    float: left;
+    margin-left: 10px;
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 18px;
+}
+.search{
+    float: left;
+    margin-left: 64px;
+    margin-top: 7px;
+    border-radius: 13px;
+    width: 634px;
+    height: 50px;
+    border: none;
+    background-color: rgb(255 255 253);
+    cursor: text;
+}
+.menu{
+    float: left;
+    margin-left: 45px;
+    margin-top: 22px;
+    font-family: Poppins, sans-serif;
+    font-weight: 800;
+    font-size: 14px;
+}
+.cart{
+    float: left;
+    width: 30px;
+    margin-left: 35px;
+    margin-top: 18px;
+}
+.heading{
+    height: 79px;
+    width: 100%;
+    margin-top: -69px;
+    
+}
+.heading1{
+    font-size: 46px;
+    margin-left: 420px;
+    margin-top: 113px;
+    font-weight: 600;
+    font-family: Cambria;
+
+}
+.images{
+    width: 100%;
+    height: 465px;
+    
+    
+}
+.image1{
+    width: 363px;
+    height: 271px;
+    margin-left: 105px;
+    border-radius: 23px;
+    margin-top: 40px;
+    box-shadow: 2px 2px 18px cornflowerblue;
+}
+.nftname{
+    margin-left: 192px;
+    margin-right: 155px;
+    width: 125px;
+    transform: translate(50%, 50%);
+    display: inline-block;
+    padding-left: 0px;
+    height: 50px;
+    font-weight: bold;
+}
+.text{
+    width: 100%;
+    height: 20px;
+}
+.nftrate{
+    margin-left: 192px;
+    margin-right: 155px;
+    width: 125px;
+    transform: translate(35%, 65%);
+    display: inline-block;
+    padding-left: 0px;
+}
+.rate{
+    width: 100%;
+}
+.trending{
+    width: 100%;
+    margin-top: -33px;
+    font-size: 35px;
+    height: 150px;
+    font-weight: bold;
+}
+
+.trending p{
+    padding-left: 44px;
+}
+
+.table{
+    width: 100%;
+    height: 670px;
+   
+    margin-top: -35px;
+    font-size: 29px;
+}
+.table-left{
+  float: left;
+  width: 50%;
+  height: 500px;
+ 
+}
+.table-right{
+    float: left;
+    height: 500px;
+    width: 50%;
+    
+
+}
+
+.table th{
+    font-size: 16px
+}
+.table td{
+    font-size: 17px;
+    font-family: Poppins, sans-serif;
+}
+
+
+.footer1{
+    width: 100%;
+    height: 200px;
+    
+    margin-top: -61px;
+}
+.newsletter{
+    float: left;
+    width: 60%;
+    
+    height: 100%;
+
+}
+.community{
+    width: 40%;
+    
+    height: 100%;
+    float: left;
+
+}
+.newsletter1{
+    margin-left: 102px;
+    margin-top: 36px;
+    font-weight: 600;
+    font-size: 23px;
+    color: white;
+}
+.newsletter2{
+    margin-left: 101px;
+    margin-top: -15px;
+    color: white;
+}
+.newsletter3{
+    margin-left: 99px;
+    width: 284px;
+    height: 36px;
+    border-radius: 10px;
+    border: white;
+}
+.button1{
+    width: 99px;
+    height: 36px;
+    font-size: 16px;
+    border: 2px solid rgb(32, 129, 226);
+    background-color: rgb(32, 129, 226);
+    color: rgb(255, 255, 255);
+    border-radius: 12px;
+    cursor: pointer;
+
+}
+
+
+.fb2{
+    width: 147px;
+    height: 96px;
+    margin-left: 60px;
+    margin-top: 1px;
+}
+.fb3{
+    width: 87px;
+    height: 64px;
+}
+.fb4{
+    width: 80px;
+    margin-left: -9px;
+}
+.join{
+    color: white;
+    margin-left: 24px;
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 23px;
+}
+.description{
+    float: left;
+width: 35%;
+height: 600px;
+background-color: rgb(24, 104, 183);
+
+}
+
+.open{
+    font-size: 24px;
+    text-decoration: none;
+    color: white;
+    margin-left: 88px;
+    font-weight: 800;
+}
+.white-logo{
+    
+    width: 64px;
+    margin-left: 87px;
+    margin-top: 62px;
+}
+.text1{
+
+    color: white;
+    padding-left: 88px;
+}
+
+.list{
+    float: left;
+    width: 65%;
+height: 600px;
+background-color: rgb(24, 104, 183);
+
+}
+.list1{
+    float: left;
+    margin-left: 57px;
+    margin-top: 51px;
+    color: white;
+}
+.fheading{
+    float: left;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.list2{
+    float: left;
+    margin-left: 57px;
+    margin-top: 51px;
+    color: white;
+}
+.list3{
+    float: left;
+    margin-left: 57px;
+    margin-top: 51px;
+    color: white;
+}
+.list4{
+    float: left;
+    margin-left: 57px;
+    margin-top: 51px;
+    color: white;
+}
+.last{
+    float: left;
+    width: 100%;
+    height: 101px;
+    
+}
+.last-left{
+    float: left;
+    width: 50%;
+    height: 100px;
+    background-color: rgb(24, 104, 183);
+    
+
+}
+.last-right{
+    float: left;
+    width: 50%;
+    height: 100px;
+    background-color: rgb(24, 104, 183);
+    
+    
+}
+.copyright{
+    margin-left: 90px;
+    color: white;
+}
+.privacy{
+    margin-left: 458px;
+    color: white;
+}
+.footer-color{
+    background-color: rgb(24, 104, 183);
+}
+.social{
+    width: 42px;
+    height: 33px;
+    margin-left: 25px;
+    cursor: pointer;
+}
+.menu:hover{
+    color: rgb(11, 134, 242);
+}
+.images img{
+    transition: 0.5s all ease-in-out;
+}
+.images:hover img{
+    transform: scale(1.1);
+}
+.one img{
+    transition: 0.5s all ease-in-out;
+}
+.one:hover img{
+    transform: scale(1.8);
+}
+.one1 img{
+    transition: 0.5s all ease-in-out;
+}
+.one1:hover img{
+    transform: scale(1.8);
+}
+.one2 img{
+    transition: 0.5s all ease-in-out;
+}
+.one2:hover img{
+    transform: scale(1.8);
+}
+.one3 img{
+    transition: 0.5s all ease-in-out;
+}
+.one3:hover img{
+    transform: scale(1.8);
+}
+.one4 img{
+    transition: 0.5s all ease-in-out;
+}
+.one4:hover img{
+    transform: scale(1.8);
+}
+.one5 img{
+    transition: 0.5s all ease-in-out;
+}
+.one5:hover img{
+    transform: scale(1.8);
+}
+.one6 img{
+    transition: 0.5s all ease-in-out;
+}
+.one6:hover img{
+    transform: scale(1.8);
+}
+.one7 img{
+    transition: 0.5s all ease-in-out;
+}
+.one7:hover img{
+    transform: scale(1.8);
+}
+.one8 img{
+    transition: 0.5s all ease-in-out;
+}
+.one8:hover img{
+    transform: scale(1.8);
+}
+.one9 img{
+    transition: 0.5s all ease-in-out;
+}
+.one9:hover img{
+    transform: scale(1.8);
+}
+
+    
+.one:hover{
+    color: rgb(39, 14, 233);
+}
+.one1:hover{
+    color: rgb(39, 14, 233);
+}
+.one2:hover{
+    color: rgb(39, 14, 233);
+}
+.one3:hover{
+    color: rgb(39, 14, 233);
+}
+.one4:hover{
+    color: rgb(39, 14, 233);
+}
+.one5:hover{
+    color: rgb(39, 14, 233);
+}
+.one6:hover{
+    color: rgb(39, 14, 233);
+}
+.one7:hover{
+    color: rgb(39, 14, 233);
+}
+.one8:hover{
+    color: rgb(39, 14, 233);
+}
+.one9:hover{
+    color: rgb(39, 14, 233);
+}
+.button1:hover button{
+   cursor: pointer;
+}
