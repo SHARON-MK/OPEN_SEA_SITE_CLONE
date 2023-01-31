@@ -426,3 +426,6 @@ background-color: rgb(24, 104, 183);
 .button1:hover button{
    cursor: pointer;
 }
+span{
+    color: rgb(106, 106, 222);
+}
